@@ -1,8 +1,9 @@
 {
   "name": "spotifyplaylistgen",
   "version": "1.0.0",
+  "author": "Azara",
   "description": "",
-  "main": "index.js",
+  "main": "src/generate.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
