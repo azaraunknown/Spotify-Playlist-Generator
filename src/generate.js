@@ -1,10 +1,10 @@
 const axios = require('axios');
 require('dotenv').config();
 
-const accessToken = process.env.CLIENT_AUTHORIZATION;
-const userId = process.env.CLIENT_ID;
+const accessToken = process.env.ACCESS_TOKEN;
+const userId = process.env.USER_ID;
 
-const playlistName = 'Playlist #2';
+const playlistName = 'PLAYLIST_NAME';
 
 const tracks = [
     "Burn It Down - Linkin Park",
