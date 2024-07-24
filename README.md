@@ -49,8 +49,12 @@ This project takes an array of song names and authors, automatically locates the
     - This is placed in the .env in the CODE slot.
 
 ## Usage
-
-1. Run the script to create and populate the playlist:
+1. Run the script to gather your authorization token.
+   ```bash
+   node src/get_token.js
+   ```
+   
+2. Run the script to create and populate the playlist:
     ```bash
-    node index.js
+    node src/generate.js
     ```
