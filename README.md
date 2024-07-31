@@ -60,6 +60,5 @@ This project takes an array of song names and authors, automatically locates the
     ```
 
 # License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](license.md) file for details.
 
