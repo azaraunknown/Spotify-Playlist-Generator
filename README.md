@@ -58,3 +58,8 @@ This project takes an array of song names and authors, automatically locates the
     ```bash
     node src/generate.js
     ```
+
+# License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
